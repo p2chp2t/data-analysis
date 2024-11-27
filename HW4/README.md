@@ -15,4 +15,4 @@
 
 # Evaluation
 - classification task: Weighted F1 score
-- regression task, Mean Squared Error
+- regression task: Mean Squared Error
