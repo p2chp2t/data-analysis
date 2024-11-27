@@ -1,2 +1,2 @@
-# Introduction to Data Analysis
-CSED226 (데이터분석 입문)
+# CSED226
+Introduction to Data Analysis (데이터분석 입문)
